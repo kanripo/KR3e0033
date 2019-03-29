@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平惠民和劑局方
-#+DATE: 2019-03-29 21:04:37.018076
+#+DATE: 2019-03-29 21:04:37.205431
 #+PROPERTY: ID KR3e0033
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3e0033_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部五¶

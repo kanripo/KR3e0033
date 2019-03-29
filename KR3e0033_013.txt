@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平惠民和劑局方
-#+DATE: 2019-03-29 21:04:37.168325
+#+DATE: 2019-03-29 21:04:37.348453
 #+PROPERTY: ID KR3e0033
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR3e0033_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -590,7 +590,7 @@
 瘧藥治之¶
 ¶
 　　論小兒疹痘證小兒患澹疹其證乍熱乍涼呵欠煩悶¶
-咳嗽噴𡁲耳鼻冷及脚冷但只惡熱不惡風渾身熱¶
+咳嗽噴嚏耳鼻冷及脚冷但只惡熱不惡風渾身熱¶
 甚者或發搐或不搐一向發熱者此乃痘疹證也可¶
 與升麻葛根湯惺惺散消毒犀角飲　已瀉者不可¶
 與他藥只服惺惺散¶
